@@ -2,7 +2,7 @@
  * 1.	Constants: Declare a constant & confirm its value cannot be changed.
  */
 
- const num = 10;
+ const num = 9;
  console.log(num);
 
  /*
@@ -28,7 +28,7 @@ We will get error saying: "Uncaught TypeError: Assignment to constant variable."
      }
  }
 
- test(10);
+ test(9);
 
  /**
   * 3.	Enhanced object properties: Create an ‘Order’ object having data members 
